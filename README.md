@@ -19,7 +19,7 @@ Copy code
 3. Create `.env` file:
 PORT=8080
 MONGO_URL=mongodb://localhost:27017/tododb
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=K/xEq9I7pFtvWaQ9IfiegLbt+3gutr9Ocnan5inRP8Q=
 REDIS_URL=redis://localhost:6379
 
 markdown
