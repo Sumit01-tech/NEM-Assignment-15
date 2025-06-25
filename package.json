@@ -1,7 +1,7 @@
 {
   "name": "nem-assignment-15",
   "version": "1.0.0",
-  "description": "",
+  "description": "- JWT-based User Authentication (Signup/Login)\r - Todo CRUD (title, description, status)\r - Redis caching for GET todos (expires in 3 mins)\r - Cron job to log pending todos every 2 minutes",
   "main": "logger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
